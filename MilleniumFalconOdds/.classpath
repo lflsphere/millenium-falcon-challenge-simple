@@ -36,8 +36,8 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/home/louis/millenium-falcon-challenge-simple/jackson-annotations-2.18.0.jar"/>
-	<classpathentry kind="lib" path="/home/louis/millenium-falcon-challenge-simple/jackson-core-2.18.0.jar"/>
-	<classpathentry kind="lib" path="/home/louis/millenium-falcon-challenge-simple/jackson-databind-2.18.0.jar"/>
+	<classpathentry kind="lib" path="/home/louis/millenium-falcon-challenge-simple/archives/jackson-annotations-2.18.0.jar"/>
+	<classpathentry kind="lib" path="/home/louis/millenium-falcon-challenge-simple/archives/jackson-core-2.18.0.jar"/>
+	<classpathentry kind="lib" path="/home/louis/millenium-falcon-challenge-simple/archives/jackson-databind-2.18.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
